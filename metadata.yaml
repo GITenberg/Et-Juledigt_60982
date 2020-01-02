@@ -1,16 +1,21 @@
 _repo: Et-Juledigt_60982
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Jerndorff, August Andreas
     gutenberg_agent_id: '51212'
     url: http://www.gutenberg.org/2009/agents/51212
+covers:
+- cover_type: archival
+  image_path: 60982-h/images/cover.jpg
 creator:
   author:
     agent_name: Frederiksen, Hans Christian
     gutenberg_agent_id: '51211'
     url: http://www.gutenberg.org/2009/agents/51211
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60982#Et-Juledigt
 gutenberg_issued: '2019-12-20'
 gutenberg_type: Text
 identifiers:
